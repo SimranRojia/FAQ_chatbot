@@ -1,12 +1,12 @@
-### FAQ Chatbot
+# FAQ Chatbot
 A simple FAQ (Frequently Asked Questions) chatbot project implemented in Python.
 
-### Table of Contents
-# Overview
-# Features
-# Installation
-# Usage
-# Contributing
+## Table of Contents
+### Overview
+### Features
+### Installation
+### Usage
+### Contributing
 
 
 ### Overview
